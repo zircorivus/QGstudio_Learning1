@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3d6a2214-410c-4573-aa93-e4ef0cd1b47a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HLSL Files">
+      <UniqueIdentifier>{7e31e7f5-100b-4921-8d41-ca209191cd74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files1">
+      <UniqueIdentifier>{66d3a9aa-52af-4a2c-b83b-e0a12d619978}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Project 01-09\02 Rendering a Triangle\CpuTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Project 01-09\02 Rendering a Triangle\d3dApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Project 01-09\02 Rendering a Triangle\d3dUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Project 01-09\02 Rendering a Triangle\DXTrace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Project 01-09\02 Rendering a Triangle\GameApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Project 01-09\02 Rendering a Triangle\WinMin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\Project 01-09\02 Rendering a Triangle\HLSL\Triangle_PS.hlsl">
+      <Filter>HLSL Files</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Project 01-09\02 Rendering a Triangle\HLSL\Triangle_VS.hlsl">
+      <Filter>HLSL Files</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Project 01-09\02 Rendering a Triangle\HLSL\Triangle.hlsli">
+      <Filter>HLSL Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp">
+      <Filter>Source Files1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Project 01-09\02 Rendering a Triangle\d3dApp.cpp">
+      <Filter>Source Files1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Project 01-09\02 Rendering a Triangle\d3dUtil.cpp">
+      <Filter>Source Files1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Project 01-09\02 Rendering a Triangle\DXTrace.cpp">
+      <Filter>Source Files1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Project 01-09\02 Rendering a Triangle\GameApp.cpp">
+      <Filter>Source Files1</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Project 01-09\02 Rendering a Triangle\Main.cpp">
+      <Filter>Source Files1</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

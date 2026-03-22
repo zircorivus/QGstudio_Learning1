@@ -1,0 +1,270 @@
+﻿  compilation object save succeeded; see F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Week1_work2\HLSL\Triangle_PS.cso
+  compilation object save succeeded; see F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Week1_work2\HLSL\Triangle_VS.cso
+  CpuTimer.cpp
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Project%2001-09/02%20Rendering%20a%20Triangle/CpuTimer.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(40,17): error C2039: "DeltaTime": 不是 "CpuTimer" 的成员
+      F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.h(11,7):
+      参见“CpuTimer”的声明
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(40,17): error C2270: “DeltaTime”: 非成员函数上不允许修饰符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(42,19): error C2065: “m_DeltaTime”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(78,16): error C2039: "Stop": 不是 "CpuTimer" 的成员
+      F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.h(11,7):
+      参见“CpuTimer”的声明
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(80,10): error C2065: “m_Stopped”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(85,9): error C2065: “m_StopTime”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(86,9): error C2065: “m_Stopped”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(90,16): error C2039: "Tick": 不是 "CpuTimer" 的成员
+      F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.h(11,7):
+      参见“CpuTimer”的声明
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(92,9): error C2065: “m_Stopped”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(94,9): error C2065: “m_DeltaTime”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(100,5): error C2065: “m_CurrTime”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(103,5): error C2065: “m_DeltaTime”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(103,20): error C2065: “m_CurrTime”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(103,33): error C2065: “m_PrevTime”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(103,45): error C2065: “m_SecondsPerCount”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(105,5): error C2065: “m_PrevTime”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(105,18): error C2065: “m_CurrTime”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(107,8): error C2065: “m_DeltaTime”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(109,9): error C2065: “m_DeltaTime”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(113,16): error C2039: "IsStopped": 不是 "CpuTimer" 的成员
+      F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.h(11,7):
+      参见“CpuTimer”的声明
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(113,16): error C2270: “IsStopped”: 非成员函数上不允许修饰符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp(115,12): error C2065: “m_Stopped”: 未声明的标识符
+  d3dApp.cpp
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dApp.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(38,94): error C2065: “TNameLength”: 未声明的标识符
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(53,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(68,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(96,85): error C2065: “TNameLength”: 未声明的标识符
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(112,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(128,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,16): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,11): error C2734: “WCHAR”: 如果不是外部的，则必须初始化常量对象
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,11): error C2377: “WCHAR”: 重定义；typedef 不能由任何其他符号重载
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(507,17):
+      参见“WCHAR”的声明
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,5): warning C4228: 使用了非标准扩展: 忽略声明符列表中逗号后面的限定符
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(165,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(165,5): error C2377: “LPCSTR”: 重定义；typedef 不能由任何其他符号重载
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(588,39):
+      参见“LPCSTR”的声明
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(165,12): error C2146: 语法错误: 缺少“;”(在标识符“entryPoint”的前面)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(167,25): error C2059: 语法错误:“)”
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.h(22,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.h(22,43): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.h(46,1): error C1020: 意外的 #endif
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dApp.cpp”)
+  
+  d3dUtil.cpp
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(38,94): error C2065: “TNameLength”: 未声明的标识符
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(53,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(68,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(96,85): error C2065: “TNameLength”: 未声明的标识符
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(112,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(128,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,16): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,11): error C2734: “WCHAR”: 如果不是外部的，则必须初始化常量对象
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,11): error C2377: “WCHAR”: 重定义；typedef 不能由任何其他符号重载
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(507,17):
+      参见“WCHAR”的声明
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,5): warning C4228: 使用了非标准扩展: 忽略声明符列表中逗号后面的限定符
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(165,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(165,5): error C2377: “LPCSTR”: 重定义；typedef 不能由任何其他符号重载
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(588,39):
+      参见“LPCSTR”的声明
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(165,12): error C2146: 语法错误: 缺少“;”(在标识符“entryPoint”的前面)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(167,25): error C2059: 语法错误:“)”
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/d3dUtil.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.cpp(4,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.cpp(4,16): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.cpp(13,65): error C2065: “ppBlobOut”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.cpp(27,91): error C2065: “entryPoint”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.cpp(27,103): error C2065: “shaderModel”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.cpp(28,31): error C2065: “ppBlobOut”: 未声明的标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.cpp(35,13): error C3861: “SAFE_RELEASE”: 找不到标识符
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.cpp(41,40): error C2065: “ppBlobOut”: 未声明的标识符
+  DXTrace.cpp
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/DXTrace.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.h(46,1): error C1020: 意外的 #endif
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/DXTrace.cpp”)
+  
+  GameApp.cpp
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\GameApp.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\GameApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(38,94): error C2065: “TNameLength”: 未声明的标识符
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(53,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(68,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(96,85): error C2065: “TNameLength”: 未声明的标识符
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(112,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(128,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,16): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,11): error C2734: “WCHAR”: 如果不是外部的，则必须初始化常量对象
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,11): error C2377: “WCHAR”: 重定义；typedef 不能由任何其他符号重载
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(507,17):
+      参见“WCHAR”的声明
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,5): warning C4228: 使用了非标准扩展: 忽略声明符列表中逗号后面的限定符
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(164,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(165,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(165,5): error C2377: “LPCSTR”: 重定义；typedef 不能由任何其他符号重载
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(588,39):
+      参见“LPCSTR”的声明
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(165,12): error C2146: 语法错误: 缺少“;”(在标识符“entryPoint”的前面)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h(167,25): error C2059: 语法错误:“)”
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.h(22,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.h(22,43): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.h(46,1): error C1020: 意外的 #endif
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/GameApp.cpp”)
+  
+  Main.cpp
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\Main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\GameApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/Main.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/Main.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“../../../../Project%2001-09/02%20Rendering%20a%20Triangle/Main.cpp”)
+  
+F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\Main.cpp(13,1): error C1020: 意外的 #endif

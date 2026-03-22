@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Release\Week1_work1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Week1\HLSL\Triangle_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>F:\20260316D3D11\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\Week1\HLSL\Triangle_VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
