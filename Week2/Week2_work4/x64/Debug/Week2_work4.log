@@ -1,0 +1,11 @@
+﻿  CpuTimer.cpp
+  d3dApp.cpp
+  d3dUtil.cpp
+  DXTrace.cpp
+  GameApp.cpp
+  Main.cpp
+  Vertex.cpp
+  正在生成代码...
+    正在创建库 F:\QG图形组一轮考核\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Debug\Week2_work4.lib 和对象 F:\QG图形组一轮考核\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Debug\Week2_work4.exp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Week2_work4.vcxproj -> F:\QG图形组一轮考核\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Debug\Week2_work4.exe

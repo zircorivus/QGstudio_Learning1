@@ -1,0 +1,12 @@
+﻿  CpuTimer.cpp
+  d3dApp.cpp
+  d3dUtil.cpp
+  DXTrace.cpp
+  GameApp.cpp
+  Main.cpp
+    正在创建库 F:\QG图形组一轮考核\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Release\Week2_work1.lib 和对象 F:\QG图形组一轮考核\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Release\Week2_work1.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 330 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Week2_work1.vcxproj -> F:\QG图形组一轮考核\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Release\Week2_work1.exe
