@@ -1,0 +1,9 @@
+﻿  Main.cpp
+LINK : warning LNK4044: 无法识别的选项“/utf-8”；已忽略
+    正在创建库 F:\QG图形组一轮考核\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Release\Week3_work3.lib 和对象 F:\QG图形组一轮考核\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Release\Week3_work3.exp
+  正在生成代码
+  2 of 771 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Week3_work3.vcxproj -> F:\QG图形组一轮考核\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Release\Week3_work3.exe

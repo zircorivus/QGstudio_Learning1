@@ -1,0 +1,19 @@
+﻿  Camera.cpp
+  CpuTimer.cpp
+  d3dApp.cpp
+  d3dUtil.cpp
+  DDSTextureLoader11.cpp
+  DXTrace.cpp
+  GameApp.cpp
+  Main.cpp
+  RenderStates.cpp
+  Transform.cpp
+  Vertex.cpp
+  WICTextureLoader11.cpp
+LINK : warning LNK4044: 无法识别的选项“/utf-8”；已忽略
+    正在创建库 F:\QG图形组一轮考核\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Release\Week3_work2.lib 和对象 F:\QG图形组一轮考核\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Release\Week3_work2.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 885 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Week3_work2.vcxproj -> F:\QG图形组一轮考核\DirectX11-With-Windows-SDK-master\DirectX11-With-Windows-SDK-master\build\x64\Release\Week3_work2.exe
